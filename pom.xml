@@ -49,7 +49,9 @@
         </plugins>
     </build>
 
-
+    <scm>
+        <developerConnection>scm:git:https://github.com/codingObj/sfg-pet-clinic_release.git</developerConnection>
+    </scm>
 
 
 </project>
