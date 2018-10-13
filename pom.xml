@@ -50,8 +50,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/codingObj/sfg-pet-clinic_release.git</developerConnection>
-      <tag>sfg-pet-clinic_release-0.0.3</tag>
+
   </scm>
 
 
